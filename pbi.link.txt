@@ -1,0 +1,5 @@
+https://app.powerbi.com/reportEmbed?reportId=deac81a5-ee39-4a50-b845-fa088143c2e2&autoAuth=true&ctid=e2aa1f92-8ae9-48c0-8aa8-894fb201ce24
+<iframe title="Practice Report 2" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=deac81a5-ee39-4a50-b845-fa088143c2e2&autoAuth=true&ctid=e2aa1f92-8ae9-48c0-8aa8-894fb201ce24" frameborder="0" allowFullScreen="true"></iframe>
+
+
+https://app.powerbi.com/Redirect?action=OpenApp&appId=52ebbfe1-df6c-4fad-93c2-37830a76573f&ctid=e2aa1f92-8ae9-48c0-8aa8-894fb201ce24
